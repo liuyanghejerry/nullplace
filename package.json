@@ -1,0 +1,21 @@
+{
+  "name": "nullplace",
+  "version": "0.0.1",
+  "description": "Create corss-platform ",
+  "main": "nullplace.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/liuyanghejerry/nullplace"
+  },
+  "keywords": [
+    "/dev/null",
+    "nulldevice",
+    "null"
+  ],
+  "author": "liuyanghejerry",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "engines" : { 
+	  "node" : ">=0.10.00" 
+  }
+}
